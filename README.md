@@ -1,2 +1,4 @@
 # Haskell Tutorial
-A blog describing my journey to learning and understanding Haskell
+> __*A blog describing my journey to learning and understanding Haskell*__\
+
+
