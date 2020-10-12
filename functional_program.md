@@ -1,3 +1,5 @@
 # Learning Functional Programming
-## How I learned functional programming languages
-> __*Author: Vincent Jodjana*__
+## How I learned a type of functional programming language called Haskell
+> __*By Vincent Jodjana*__
+
+
