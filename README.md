@@ -1,6 +1,6 @@
 # Haskell Tutorial
 ## A blog describing my journey to learning and understanding Haskell
-> __*Author: Vincent Jodjana*__
+> __*By Vincent Jodjana*__
 
 ### Links:
 1. [Learning Functional Programming](https://github.com/vcjod00/HaskellTutorial/blob/main/functional_program.md)
