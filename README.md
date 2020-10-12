@@ -6,10 +6,10 @@
 > __*Course Number and Section: CPSC 354-01*__
 
 ### Links:
-* Learning Functional Programming
-* External Sources
-* Comparison to Favorite Language
-* Stumbling Blocks
-* Projects beyond this class...
+1. Learning Functional Programming
+2. External Sources
+3. Comparison to Favorite Language
+4. Stumbling Blocks
+5. Projects beyond this class...
 
 
