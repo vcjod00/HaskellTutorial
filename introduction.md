@@ -2,7 +2,7 @@
 ## An introduction to the functional programming language Haskell.
 > __*By Vincent Jodjana*__
 
-References to Blogs:
+References:
 -[Imperative vs Functional Programming from CPSC 354](https://hackmd.io/@alexhkurz/SJKWvna6U)
 
 What is Haskell? The first time I had ever heard of a language came from my CPSC 354 class during my
