@@ -2,10 +2,11 @@
 ## Personal preferences on what helped me learn Haskell
 > __*By Vincent Jodjana*__
 
-You know what everyone says. Dr. Google is your best friend. However, for me it
-was not the best method to learn and understand it. In fact, it actually took a
-while before I began to understand the basic gists of it, especially when it came
-to writing functions and thinking logically in Haskell.
+You know what everyone says. [Dr. Google](https://www.google.com/) is your best 
+friend. However, for me it was not the best method to learn and understand it.
+In fact, it actually took a while before I began to understand the basic gists
+of it, especially when it came to writing functions and thinking logically in 
+Haskell.
 
 I would say the biggest contribution to a better overall understanding was talking
 with my friends and classmates in my CPSC 353 class and working on it together.
