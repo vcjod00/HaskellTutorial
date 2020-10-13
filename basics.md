@@ -10,8 +10,8 @@ stack exec ghci
 
 Something like this should appear
 
-GHCi, version 8.8.3: https://www.haskell.org/ghc/  :? for help
-Prelude>
+    GHCi, version 8.8.3: https://www.haskell.org/ghc/  :? for help
+    Prelude>
 
 
 
