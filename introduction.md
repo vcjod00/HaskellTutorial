@@ -3,7 +3,8 @@
 > __*By Vincent Jodjana*__
 
 References:
--[Imperative vs Functional Programming from CPSC 354](https://hackmd.io/@alexhkurz/SJKWvna6U)
+
+[Imperative vs Functional Programming from CPSC 354](https://hackmd.io/@alexhkurz/SJKWvna6U)
 
 What is Haskell? The first time I had ever heard of a language came from my CPSC 354 class during my
 senior year at Chapman University. Up until then I had no idea of what a functional programming language
