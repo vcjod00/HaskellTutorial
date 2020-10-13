@@ -18,4 +18,4 @@ main() { } in Java.
 
 One thing that helped me overcome this obstacle was to really think of it like
 mathematical equations. That mindset really put a lot of the concepts back
-together thanks to my friend [Dan] (https://danshaub.github.io/). 
+together thanks to my friend [Dan](https://danshaub.github.io/). 
