@@ -22,11 +22,13 @@ help many people understand Haskell and its fundamentals.
 These were the introduction during the first week of my CPSC 353 class
 
 [Imperative vs Functional Programming](https://hackmd.io/@alexhkurz/SJKWvna6U)
+
 [Haskell: Recursion in Functional Programming](https://hackmd.io/@alexhkurz/H1jUka4Gv)
 
 These were tutorials outside of class but referenced from the previous links
 
 [Haskell in Five Steps](https://wiki.haskell.org/Haskell_in_5_steps)
+
 [Haskell in 10 Minutes](https://wiki.haskell.org/Learn_Haskell_in_10_minutes)
 
 and these were tutorials outside of class as a whole
