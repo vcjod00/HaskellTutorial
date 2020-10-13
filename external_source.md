@@ -16,6 +16,19 @@ looking up things online. Interestingly, it was through a classmate telling me t
 of Haskell and the assignments as applied Discrete Mathematics was where things began to
 click in a sense.
 
-Of course I understand that sites such as stack exchange and videos on youtube definitely
-can help other people better, so I am not denying that. This is what personally helped me
-understand Haskell and functional programming languages much better. 
+Of course, there are definitely some links I can reference that I personally think would
+help many people understand Haskell and its fundamentals.
+
+These were the introduction during the first week of my CPSC 353 class
+
+[Imperative vs Functional Programming](https://hackmd.io/@alexhkurz/SJKWvna6U)
+[Haskell: Recursion in Functional Programming](https://hackmd.io/@alexhkurz/H1jUka4Gv)
+
+These were tutorials outside of class but referenced from the previous links
+
+[Haskell in Five Steps](https://wiki.haskell.org/Haskell_in_5_steps)
+[Haskell in 10 Minutes](https://wiki.haskell.org/Learn_Haskell_in_10_minutes)
+
+and these were tutorials outside of class as a whole
+
+[Haskell Tutorial on Youtube](https://www.youtube.com/watch?v=02_H3LjqMr8)

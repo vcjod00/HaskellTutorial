@@ -25,4 +25,22 @@ Where it differentiates is first in the fact that Python is an imperative progra
 language and Haskell is a functional programming language. You can look at my
 [introduction](https://github.com/vcjod00/HaskellTutorial/blob/main/introduction.md)
 blog for more details on the difference between Haskell and an imperative programming
-language. 
+language.
+
+Their syntax for how they set up their functions are also different. Haskell simply gives
+a function name.
+
+    add O n = n
+    add (S n) m = S (add n m)
+
+Python, on the other hand...
+
+    def add(s, n):
+        if s == 0:
+            ...
+        else:
+            ...add(s, n)
+
+Remember Haskell is functional, so everything is expressive. There are not assigned statements
+like in Python. While Python can use recursive statements, they can also use loops whereas
+Haskell not so much.

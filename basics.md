@@ -50,6 +50,8 @@ to compile a file on your terminal, run
     *Main> len [1, 4, 2, 5, 6, 7]
     6
 
+It should return 6 as there are 6 pieces of data in the list. 
+
 
 
 

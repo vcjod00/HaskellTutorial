@@ -15,7 +15,7 @@ Haskell first appeared in the 1930s and was named after a mathematician named Ha
 
 ![Haskell Curry](https://upload.wikimedia.org/wikipedia/commons/8/86/HaskellBCurry.jpg)
 
-Haskell is a type of functional programming language. When I first started taking computer programming 
+Haskell is a type of **functional programming language**. When I first started taking computer programming 
 classes as a computer science major, the first language I had ever learned was C++. The many programming
 languages that many people are familiar include C++, Python, and Java. What do these languages have in 
 common? They are imperative programming languages? 
