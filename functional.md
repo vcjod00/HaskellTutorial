@@ -2,13 +2,6 @@
 ## A blog describing what is functional programming
 > __*By Vincent Jodjana*__
 
-References:
-[Imperative vs Functional Programming from CPSC 354](https://hackmd.io/@alexhkurz/SJKWvna6U)
-[Functional Programming on Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-[Turing Machine on Wikipedia](https://en.wikipedia.org/wiki/Turing_machine)
-[Functional Programming Introduction on Tutorialspoint](https://www.tutorialspoint.com/functional_programming/functional_programming_introduction.htm)
-[Successor Function](https://en.wikipedia.org/wiki/Successor_function)
-
 What was your first language when you first learned to code? Mine was C++. Some people started with Python. Others with Java. What do those languages have in common? Well, they are known as imperative programming languages. When I took a class called Programming Languages or CPSC 354 in my senior year at Chapman, I learned about a functional programming language called Haskell.
 
 ![Chapman University](https://www.glumac.com/content/uploads/2016/03/m_2507_0001.jpg)
@@ -53,9 +46,15 @@ This is a successor function that could compute the addition of two natural numb
 First class are similar to higher order functions, but first class is a computer science term for programming language entities that do not have restrictions on their use.
 
 # Pure Functions
-Pure functions are functions that have no memory or input/output. They have several useful properties which optimize the code. 
+Pure functions are functions that have no memory or input/output. They have several useful properties which optimize the code:
+
+1. If the result of a pure function isn't used, then it can be removed without affecting other expressions.
+2. Referential Trasparency: The idea that if a pure function is called with arguments that have no memory or I/O, the result is constant with respect to that argument list. 
+3. If there is no data dependency between two pure expressions, their order can be reversed. In other words, the evaluation of any pure expression is thread-safe.
+4. If the entire language does not allow side-effects, then any evaluation strategy can be used. This allows the compiler to reorder or combine the evaluation of expressions in a program. 
 
 # Recursion
+
 
 # Strict and Nonstrict Evaluation
 
@@ -65,3 +64,9 @@ Pure functions are functions that have no memory or input/output. They have seve
 
 # Data Structures
 
+References:
+[Imperative vs Functional Programming from CPSC 354](https://hackmd.io/@alexhkurz/SJKWvna6U)
+[Functional Programming on Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+[Turing Machine on Wikipedia](https://en.wikipedia.org/wiki/Turing_machine)
+[Functional Programming Introduction on Tutorialspoint](https://www.tutorialspoint.com/functional_programming/functional_programming_introduction.htm)
+[Successor Function](https://en.wikipedia.org/wiki/Successor_function)
