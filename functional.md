@@ -80,8 +80,8 @@ Purely functional data structures are represented differently than imperative da
 If you already have experience in programming in imperative languages like Java or Python, functional languages are going to come off a bit different and wack at first. One thing to really keep in mind is to treat a function as like a math equation or taking different cases like in discrete mathematics. This mentality will help you shape how to write out your functions in a functional language like Haskell. Of course, watching videos on youtube or taking tutorials online will also help you learn as well. 
 
 References:
-*[Imperative vs Functional Programming from CPSC 354](https://hackmd.io/@alexhkurz/SJKWvna6U)
-*[Functional Programming on Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-*[Turing Machine on Wikipedia](https://en.wikipedia.org/wiki/Turing_machine)
-*[Functional Programming Introduction on Tutorialspoint](https://www.tutorialspoint.com/functional_programming/functional_programming_introduction.htm)
-*[Successor Function](https://en.wikipedia.org/wiki/Successor_function)
+>__*[Imperative vs Functional Programming from CPSC 354](https://hackmd.io/@alexhkurz/SJKWvna6U)*__
+>__*[Functional Programming on Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)*__
+>__*[Turing Machine on Wikipedia](https://en.wikipedia.org/wiki/Turing_machine)*__
+>__*[Functional Programming Introduction on Tutorialspoint](https://www.tutorialspoint.com/functional_programming/functional_programming_introduction.htm)*__
+>__*[Successor Function](https://en.wikipedia.org/wiki/Successor_function)*__
