@@ -54,15 +54,30 @@ Pure functions are functions that have no memory or input/output. They have seve
 4. If the entire language does not allow side-effects, then any evaluation strategy can be used. This allows the compiler to reorder or combine the evaluation of expressions in a program. 
 
 # Recursion
+Unlike typical imperative programming languages such as Java and Python, you can iterate using loops. For functional languages, it is typically accomplished using recursion. Through recursion, recursive functions will invoke themselves and allow an operation to repeat until it reaches the base case.
 
+Many general purpose functional programming languages allow unrestricted recursion and are Turing complete. This could make the problem of determining whether a program will finish running or continue on forever undecided. It could also cause unsoundness of equational reasoning and could require the introduction of inconsistency. 
 
 # Strict and Nonstrict Evaluation
+Functional languages can be categorized into strict and nonstrict evaluation. These concepts refer to how function arguments are processed when an expression is being evaluated. The technical difference between strict and nonstrict evaluation is when there is a failing computation in the expression. For example:
+
+    print length([5+2, 2*3, 2/0, 7-4])
+
+This expression would fail under strict evaluation because dividing by zero is a failed computation. On the other hand, if it was a nonstrict evaluation, it would run and return the value 4. Strict evaluation always fully evaluates function arguments before it invokes the function whereas nonstrict evaluation don't unless their values are required to evaluate the function itself. 
 
 # Type Systems
+Functional languages tend to use typed lambda calculus. This rejects all invalid programs at compilation time and risk false positive errors. The use of algebraic data types makes the manipulation of complex data structures convenient , and the presence of strong compile-time checking makes their programs more reliable.
+
+There are some research-oriented functional languages like Cayenne and Epigram that are based on intuinistic type theory, allowing types to depend on terms. They are also known as dependent types. They can express arbitrary propositions in predicate logic or first-order logic. These are pretty difficult to understand and program, but they are mainly of interest in academic research.
 
 # Referential Trasparency
+Unlike imperative languages, functional languages do not have assignment statements. In imperative languages, one can change the value of a variable once defined. This will help remove any chance of side effects because any variable can be replaced with its actual value at the point of execution. Thus, functional langauges are considered to be referentially transparent.
 
 # Data Structures
+Purely functional data structures are represented differently than imperative data structures. They have persistence, which is a property of keeping previous versions of the data structures unmodified. For example, calling the insert function in trees using persistence will result in some but not all nodes being created.
+
+# So.... how do newcomers learn functional programming languages?
+If you already have experience in programming in imperative languages like Java or Python, functional languages are going to come off a bit different and wack at first. One thing to really keep in mind is to treat a function as like a math equation or taking different cases like in discrete mathematics. This mentality will help you shape how to write out your functions in a functional language like Haskell. Of course, watching videos on youtube or taking tutorials online will also help you learn as well. 
 
 References:
 [Imperative vs Functional Programming from CPSC 354](https://hackmd.io/@alexhkurz/SJKWvna6U)
