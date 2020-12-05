@@ -1,10 +1,6 @@
-# Introduction to Haskell
-## An introduction to the functional programming language Haskell.
+# Introduction and History of Haskell
+## A blog introducing Haskell, its history, and features
 > __*By Vincent Jodjana*__
-
-References:
-
-[Imperative vs Functional Programming from CPSC 354](https://hackmd.io/@alexhkurz/SJKWvna6U)
 
 What is Haskell? The first time I had ever heard of a language came from my CPSC 354 class during my
 senior year at Chapman University. Up until then I had no idea of what a functional programming language
@@ -50,7 +46,7 @@ The Language Pragma was specified. Dozens of extensions to Haskell were in use, 
 In addition, Haskell features lazy evaluation, lambda expressions, pattern matching, list comprehension, type classes, and type polymorphism. It is a purely functional language, as mentioned previously. It has a strong static type system based on Hindley-Milner type inference. The principal innovation in this area is the type classes. They were originally conceived as a principled way to add overloading to Haskell, but it has found many more uses. Haskell has open, published specification, and multiple implementations exist. However, its main implementation, GHC, is both an interpreter and native-code compiler that runs on most platforms. GHC is noted for its rich type system incorporating recent innovations like generalized algebraic data types and type families.
 
 Now that you know the history and features of Haskell, we will move on to showing the differences between a functional language like Haskell and an Imperative Programming Language like Python.
-- [What's the difference between Functional and Imperative Programming Languages?](https://github.com/vcjod00/HaskellTutorial/blob/main/comparison.md)
+- [What's the difference between Functional and Imperative Programming Languages?](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_3.md)
 
 References:
 - [Haskell on Wikipedia](https://en.wikipedia.org/wiki/Haskell_(programming_language))

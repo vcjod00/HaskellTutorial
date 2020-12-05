@@ -77,7 +77,10 @@ Unlike imperative languages, functional languages do not have assignment stateme
 Purely functional data structures are represented differently than imperative data structures. They have persistence, which is a property of keeping previous versions of the data structures unmodified. For example, calling the insert function in trees using persistence will result in some but not all nodes being created.
 
 # So.... how do newcomers learn functional programming languages?
-If you already have experience in programming in imperative languages like Java or Python, functional languages are going to come off a bit different and wack at first. One thing to really keep in mind is to treat a function as like a math equation or taking different cases like in discrete mathematics. This mentality will help you shape how to write out your functions in a functional language like Haskell. Of course, watching videos on youtube or taking tutorials online will also help you learn as well. 
+If you already have experience in programming in imperative languages like Java or Python, functional languages are going to come off a bit different and wack at first. One thing to really keep in mind is to treat a function as like a math equation or taking different cases like in discrete mathematics. This mentality will help you shape how to write out your functions in a functional language like Haskell. Of course, watching videos on youtube or taking tutorials online will also help you learn as well.
+
+The next blog will be introduction and history of the language Haskell
+- [Introduction and History of Haskell](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_2.md)
 
 References:
 - [Imperative vs Functional Programming from CPSC 354](https://hackmd.io/@alexhkurz/SJKWvna6U)
