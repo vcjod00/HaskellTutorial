@@ -10,8 +10,8 @@
 5. [Variables in Haskell]()
 6. [Conditional Statements in Haskell]()
 7. [Functions in Haskell]()
-8. [External Sources](https://github.com/vcjod00/HaskellTutorial/blob/main/external_source.md)
-9. [Stumbling Blocks](https://github.com/vcjod00/HaskellTutorial/blob/main/stumbling_blocks.md)
+8. [External Sources](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_8.md)
+9. [Stumbling Blocks](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_9.md)
 10. [Projects in Haskell]()
 
 
