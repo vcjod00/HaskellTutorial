@@ -1,9 +1,23 @@
-# Basics of Haskell
-## Introducing the basics of Haskell
+# Before You Start Writing Haskell Code?
+## A blog introducing and showing how to install and run your first haskell code
 > __*By Vincent Jodjana*__
 
-### Before you start.
-Make sure you have Haskell downloaded (see [Haskell Platform](https://www.haskell.org/platform/))
+# Installing Haskell.
+This is installing Haskell on a Mac machine. Your first step is to go ahead and copy and paste on your terminal.
+
+    curl -sSL https://get.haskellstack.org/ | sh
+
+to upgrade to the latest version of stack, run this command.
+
+    stack upgrade
+
+For installing Haskell on Windows, 
+You want to configure [chocolatey](https://chocolatey.org/install) on your machine.
+Once you have that, run the command at an elevated command prompt like power shell
+
+    choco install haskell-dev refreshenv
+
+# Running Haskell
 Once you have it installed in your terminal, run the command
 
     stack exec ghci
@@ -50,9 +64,16 @@ to compile a file on your terminal, run
     *Main> len [1, 4, 2, 5, 6, 7]
     6
 
-It should return 6 as there are 6 pieces of data in the list. 
+It should return 6 as there are 6 pieces of data in the list.
 
+The next blog will be on variables in Haskell.
+- [Variables in Haskell]()
 
+References:
+- [Installing Haskell from CPSC 354](https://hackmd.io/@alexhkurz/Hk86XnCzD)
+- [Haskell: Recursion in Functional Programming](https://hackmd.io/@alexhkurz/H1jUka4Gv)
+- [The Haskell Tool Stack](https://docs.haskellstack.org/en/stable/README/)
+- [Installing the Haskell Platform on Windows](https://www.haskell.org/platform/windows.html)
 
 
 

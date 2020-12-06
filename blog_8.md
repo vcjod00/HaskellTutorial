@@ -34,3 +34,6 @@ These were tutorials outside of class but referenced from the previous links
 and these were tutorials outside of class as a whole
 
 [Haskell Tutorial on Youtube](https://www.youtube.com/watch?v=02_H3LjqMr8)
+
+The next blog will be on variables in stumbling blocks while learning Haskell)
+- [Stumbling Blocks](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_9.md)

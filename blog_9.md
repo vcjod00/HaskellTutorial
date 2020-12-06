@@ -23,4 +23,7 @@ together thanks to my friend [Dan Haub](https://danshaub.github.io/).
 This leads to what really helped me a lot with overcoming the difficulties and
 obstacles of learning Haskell which was discussing with classmates. Group discussion
 I feel are an underrated yet much appreciated solution to understanding and learning
-a new language like Haskell. 
+a new language like Haskell.
+
+The next blog will be on using docker to run Haskell and bnfc
+[Docker]()
