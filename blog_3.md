@@ -8,6 +8,7 @@ Perhaps the most significant difference between functional and imperative progra
 Both programs in Javascript multiply all their even numbers in an array by 10 and add. Then, they store the final sum in the variable result.
 
 Traditional Imperative Loop in Javascript:
+
     const numList = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
     let result = 0;
     for (let i = 0; i < numList.length; i++) {
@@ -20,9 +21,9 @@ This utilizes looping like in most imperative languages
 
 Functional Programming in Javascript with Higher Order Functions:
     const result = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-               .filter(n => n % 2 === 0)
-               .map(a => a * 10)
-               .reduce((a, b) => a + b);
+        .filter(n => n % 2 === 0)
+        .map(a => a * 10)
+        .reduce((a, b) => a + b);
 
 This utilizes higher order functions like in functional languages
 
