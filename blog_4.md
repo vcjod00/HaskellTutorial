@@ -1,4 +1,4 @@
-# Before You Start Writing Haskell Code?
+# Before You Start Writing Haskell Code
 ## A blog introducing and showing how to install and run your first haskell code
 > __*By Vincent Jodjana*__
 
