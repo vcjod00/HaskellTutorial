@@ -67,7 +67,7 @@ to compile a file on your terminal, run
 It should return 6 as there are 6 pieces of data in the list.
 
 The next blog will be on variables in Haskell.
-- [Variables in Haskell]()
+- [Variables in Haskell](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_5.md)
 
 References:
 - [Installing Haskell from CPSC 354](https://hackmd.io/@alexhkurz/Hk86XnCzD)
