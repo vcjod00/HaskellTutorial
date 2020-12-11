@@ -26,4 +26,4 @@ I feel are an underrated yet much appreciated solution to understanding and lear
 a new language like Haskell.
 
 The next blog will be on using docker to run Haskell and bnfc
-[Docker]()
+- [Docker](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_10.md)
