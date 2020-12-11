@@ -8,7 +8,7 @@
 3. [What's the difference between Functional and Imperative Programming Languages](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_3.md)
 4. [Before you start writing Haskell Code...](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_4.md)
 5. [Variables in Haskell](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_5.md)
-6. [Conditional Statements in Haskell](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_6.md)
+6. [List and Tuples in Haskell](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_6.md)
 7. [Functions in Haskell](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_7.md)
 8. [External Sources](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_8.md)
 9. [Stumbling Blocks](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_9.md)
