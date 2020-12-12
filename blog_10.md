@@ -33,4 +33,6 @@ The site that helped me the most understand to syntax and the fundamentals of Ha
 
 [Haskell in Wikibooks](https://en.wikibooks.org/wiki/Haskell)
 
-Assignments from Programming Languages and seeking help from friends also further increased my knowledge of Haskell. 
+Assignments from Programming Languages and seeking help from friends also further increased my knowledge of Haskell.
+
+[Back to the main page](https://github.com/vcjod00/HaskellTutorial)
