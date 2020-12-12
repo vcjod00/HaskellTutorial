@@ -8,7 +8,7 @@ In fact, it actually took a while before I began to understand the basic gists
 of it, especially when it came to writing functions and thinking logically in 
 Haskell.
 
-![Google](https://www.techyuga.com/wp-content/uploads/2016/02/new-google-logo-2015.png
+![Google Logo](https://www.pcgamesn.com/wp-content/uploads/2018/10/google-logo.jpg)
 
 I would say the biggest contribution to a better overall understanding was talking
 with my friends and classmates in my CPSC 353 class and working on it together.
@@ -41,7 +41,7 @@ and these were tutorials outside of class as a whole
 
 [Haskell Tutorial on Youtube](https://www.youtube.com/watch?v=02_H3LjqMr8)
 
-1[Youtube](https://static0.srcdn.com/wordpress/wp-content/uploads/2018/04/YouTube-Logo.jpg)
+![Youtube Logo](https://static0.srcdn.com/wordpress/wp-content/uploads/2018/04/YouTube-Logo.jpg)
 
 recently, I had discovered these links which have been lately extremely useful as well to understanding the basics of Haskell.
 [Haskell in Wikibooks](https://en.wikibooks.org/wiki/Haskell)
