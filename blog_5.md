@@ -103,7 +103,7 @@ Another major difference is this:
 
 This in Haskell is a recursive definition of d instead of incrementing the variable d. This would be incrementing in the context of an imperative programming language. 
 
-The next blog will be on conditional statements in Haskell.
+The next blog will be on lists and tuples in Haskell.
 - [Conditional Statements in Haskell](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_6.md)
 
 References:

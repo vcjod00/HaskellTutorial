@@ -2,7 +2,7 @@
 ## A blog introducing and showing lists and tuples in Haskell
 > __*By Vincent Jodjana*__
 
-Haskell use lists and tuples as fundamental structures for managing several values. Lists and tuples are similar in the sense that they group multiple values into a single combined value. Lists are also very similar to arrays in Java and C++.
+Haskell use lists as fundamental structures for managing several values. Lists are also very similar to arrays in Java and C++.
 
     Prelude> let numbers = [2, 4, 6, 8]
     Prelude> let truths = [True, True, False]
@@ -54,5 +54,60 @@ When using cons, it is important to remember that the elements of a list must ha
         In an equation for ‘it’: it = False : True
 
 # Strings are lists
+If you think about it, strings in Haskells are just lists of characters. This also means values of the type String can be manipulated just like any other list. Instead of entering strings directly as a sequence of characters enclosed in double quotation marks, they can also be constructed through a sequence of Char values. These Char values can be either linked with : and terminated by an empty list or using a comma and bracket notation.
+
+    Prelude> "hello" == ['h', 'e', 'l', 'l', 'o']
+    True
+    Prelude> "hello: == ['h':'e':'l':'l':'o']
+    True
+
+# Lists of Lists
+List are able to contain anything under the condition that each value are the same type. Thus, lists are able to contain other lists.
+
+    Prelude> let listOfLists = [[2, 4], [6, 8]]
+    Prelude> listOfLists
+    [[2, 4], [6, 8]]
+
+You do have to be careful because a list of things does not have the same type as a thing all by itself. For example,
+
+    Prelude> []:[[1,2], [3, 4]]
+    [[],[1,2],[3,4]]
+
+    Prelude> ['a']:[[1,2], [3, 4]]
+    <interactive>:2:9: error:
+        • No instance for (Num Char) arising from the literal ‘1’
+        • In the expression: 1
+        In the expression: [1, 2]
+        In the second argument of ‘(:)’, namely ‘[[1, 2], [3, 4]]’
+
+An empty list can be consed by lists of anything, but ['a'] cannot be consed with a list of list of numbers.
+
+# Tuples
+Tuples offer another way to store multiple values in a single values. There are two key differences between lists and tuples:
+
+1. Tuples are immutable or they have a fixed number of elements. You cannot cons to a tuple. It would be best to use tuples in scenarios when you know in advance how many values are to be stored.
+
+2. The elements of a tuple do not have to be of the same type. This is useful compared to lists because list can only be of the same type.
+
+Here are some examples of tuples.
+
+    (False, 2)
+    ("Hello", 2, 3, True)
+
+Tuples can also come in handy when you want to return more than one value from a function.
+
+# Tuples Within Tuples
+Just like lists, you are able to store tuples within tuples. In addition, you could also have a list of tuples or tuples of lists.
+
+    ((1, 2), False)
+    ((1, 2), [1, 2])
+    [("a", 2), ("b", 4), ("c", 6), ("d", 8)]
+
+The next blog will be on functions in Haskell.
+- [Functions in Haskell](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_7.md)
+
+References:
+- [Haskell/Lists and tuples](https://en.wikibooks.org/wiki/Haskell/Lists_and_tuples)
+
 
 
