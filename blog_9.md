@@ -44,6 +44,7 @@ and these were tutorials outside of class as a whole
 ![Youtube Logo](https://static0.srcdn.com/wordpress/wp-content/uploads/2018/04/YouTube-Logo.jpg)
 
 recently, I had discovered these links which have been lately extremely useful as well to understanding the basics of Haskell.
+
 [Haskell in Wikibooks](https://en.wikibooks.org/wiki/Haskell)
 
 [Haskell in Wikipedia](https://en.wikipedia.org/wiki/Haskell_%28programming_language%29)
