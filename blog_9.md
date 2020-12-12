@@ -50,4 +50,4 @@ recently, I had discovered these links which have been lately extremely useful a
 [Haskell in Wikipedia](https://en.wikipedia.org/wiki/Haskell_%28programming_language%29)
 
 The next blog will be on variables in stumbling blocks while learning Haskell)
-- [Stumbling Blocks](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_9.md)
+- [Stumbling Blocks](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_10.md)

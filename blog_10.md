@@ -20,10 +20,17 @@ One thing that helped me overcome this obstacle was to really think of it like
 mathematical equations. That mindset really put a lot of the concepts back
 together thanks to my friend [Dan Haub](https://danshaub.github.io/).
 
+![Chapman University](https://www.glumac.com/content/uploads/2016/03/m_2507_0001.jpg)
+
 This leads to what really helped me a lot with overcoming the difficulties and
 obstacles of learning Haskell which was discussing with classmates. Group discussion
 I feel are an underrated yet much appreciated solution to understanding and learning
 a new language like Haskell.
 
-The next blog will be on using docker to run Haskell and bnfc
-- [Docker](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_10.md)
+![Haskell Logo](https://qualityassignmenthelp.com///wp-content/uploads/2016/11/haskell-logo.jpg)
+
+The site that helped me the most understand to syntax and the fundamentals of Haskell are on this page
+
+[Haskell in Wikibooks](https://en.wikibooks.org/wiki/Haskell)
+
+Assignments from Programming Languages and seeking help from friends also further increased my knowledge of Haskell. 
