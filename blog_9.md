@@ -45,6 +45,7 @@ and these were tutorials outside of class as a whole
 
 recently, I had discovered these links which have been lately extremely useful as well to understanding the basics of Haskell.
 [Haskell in Wikibooks](https://en.wikibooks.org/wiki/Haskell)
+
 [Haskell in Wikipedia](https://en.wikipedia.org/wiki/Haskell_%28programming_language%29)
 
 The next blog will be on variables in stumbling blocks while learning Haskell)
