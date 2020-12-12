@@ -32,11 +32,7 @@ There are some pretty important concepts to know in regards to functional progra
 7. Data Structures
 
 # First Class and Higher Order Functions
-Higher order functions are functions that take functions as arguments or return functions as results. An example related to Calculus would look something like this.
-
-![Higher Order Derivatives](https://www.shelovesmath.com/wp-content/uploads/2013/02/Higher-Order-Derivatives.png)
-
-In addition, higher order functions enable currying, which is a technique that applies functions to its arguments one at a time. Each application would then return a new function that accepts the next argument. An example would look something like 1 is defined to be S(O), and the addition on natural numbers looks like 
+Higher order functions are functions that take functions as arguments or return functions as results. In addition, higher order functions enable currying, which is a technique that applies functions to its arguments one at a time. Each application would then return a new function that accepts the next argument. An example would look something like 1 is defined to be S(O), and the addition on natural numbers looks like 
 
     m + O = m
     m + S(n) = S(m + n)
