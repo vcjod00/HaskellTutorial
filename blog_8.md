@@ -68,7 +68,7 @@ Again, your base case is if it is an empty list, than the length is 0. Otherwise
 The base case is when you concatenate anything with an empty string, you get the exact same as before or ys in this case. For the recursive case, you break the first list into its head and tail. Then you concatenate the two lists. Recursion ultimately is used to define nearly all functions with lists and numbers.
 
 The next blog will be on Extra Sources for learning Haskell. 
-- [Extra Sources](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_8.md)
+- [Extra Sources](https://github.com/vcjod00/HaskellTutorial/blob/main/blog_9.md)
 
 References:
 - [Haskell/Recursion](https://en.wikibooks.org/wiki/Haskell/Recursion)
